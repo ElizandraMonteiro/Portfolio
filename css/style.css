@@ -9,13 +9,13 @@
     color: #020205;
 }
 body {
-    background: rgb(133, 138, 133);
+    background: rgb(0, 0, 0);
 }
 nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background:#020205;
+    background:#5e3181;
     height: 50px;
     padding: 0 5%;
     position: fixed;
@@ -127,7 +127,7 @@ main section p span {
     align-items: center; 
 }
 .redes button {
-    background: #020205;
+    background: #5e3181;
     color: #EEEEEE;
     padding: 10px;
     border: none;
@@ -147,7 +147,7 @@ main section p span {
     color: #EEEEEE;
 }
 .line {
-    border: 1px solid #020205;
+    border: 1px solid #5e3181;
     margin: 80px 0;
     animation: fromBottom 1.2s .4s backwards;
 }
@@ -199,7 +199,7 @@ main section p span {
     width: 400px;
     height: auto;
     text-align: center;
-    background: #58585a;
+    background: #c1c1c4;
     border-radius: 10px;
     padding: 2px 20px;
     margin-bottom: 70px;
@@ -224,7 +224,7 @@ main section p span {
 }
 .contact {
     text-align: left;
-    background: #58585a;
+    background: #c1c1c4;
     padding: 0 40px;
     border-radius: 8px;
 }
@@ -236,7 +236,7 @@ main section p span {
     align-items: center;
 }
 .contact i {
-    color:rgb(10, 197, 10);
+    color:rgb(32, 173, 32);
     font-size: 30px;
 }
 .box-text {
@@ -262,7 +262,7 @@ footer p {
     background: rgb(133, 138, 133);
     cursor: pointer;
     transition: all .3s;
-    background: #010203;
+    background: #5e3181;
 }
 .toTopButton:hover {
     transform: scale(1.2);
@@ -286,7 +286,7 @@ footer p {
 
 /* Fundo que corre */
 ::-webkit-scrollbar-track {
-    background-color: #58585a;
+    background-color: #c1c1c4;
 }
 /* Fundo que corre */
 
@@ -297,7 +297,7 @@ footer p {
 
 /* Linha que desce */
 ::-webkit-scrollbar-thumb {
-    background: #020205;
+    background: #5e3181;
     border-radius: 15px;
 }
 /* Linha que desce*/
@@ -335,7 +335,7 @@ footer p {
         flex-direction: column;
         transform: translateX(100%);
         transition: all .6s;
-        background: #3348be;
+        background: #5e3181;
         gap: 50px;
         padding-top: 20px;
     }
