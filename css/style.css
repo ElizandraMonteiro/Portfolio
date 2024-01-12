@@ -236,7 +236,7 @@ main section p span {
     align-items: center;
 }
 .contact i {
-    color:rgb(32, 173, 32);
+    color:rgb(40, 169, 40);
     font-size: 30px;
 }
 .box-text {
@@ -304,7 +304,6 @@ footer p {
 /* Linha que desce*/
 
 
-/* Barra de Rolagem */
 /* Barra de Rolagem */
 @keyframes fromTop {
     from {
