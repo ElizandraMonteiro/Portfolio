@@ -15,7 +15,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background:#5e3181;
+    background:#c1c1c4;
     height: 50px;
     padding: 0 5%;
     position: fixed;
@@ -84,7 +84,7 @@ h1 {
 }
 p {
     font-weight: 500;
-    color: #eeeef7;
+    color: #c1c1c4;
     line-height: 28px;
     margin: 30px 0;
     animation: fromBottom 1.2s .1s backwards;
@@ -178,6 +178,26 @@ main section p span {
 .tecnologies ul li:nth-child(3) i {
     font-size: 48px;
     color: rgb(255, 187, 0);
+}
+.tecnologies ul li:nth-child(4) i {
+    font-size: 48px;
+    color: rgb(33, 99, 21);
+}
+.tecnologies ul li:nth-child(5) i {
+    font-size: 48px;
+    color: rgb(79, 170, 255);
+}
+.tecnologies ul li:nth-child(6) i {
+    font-size: 48px;
+    color: rgb(177, 3, 3);
+}
+.tecnologies ul li:nth-child(7) i {
+    font-size: 48px;
+    color: rgb(255, 194, 73);
+}
+.tecnologies ul li:nth-child(8) i {
+    font-size: 48px;
+    color: rgb(50, 36, 203);
 }
 .spanverde {
     color: #5e3181;
